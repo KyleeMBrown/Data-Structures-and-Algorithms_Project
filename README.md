@@ -1,4 +1,4 @@
-# CS-300 - Data Structures and Algorithms
+# Data Structures and Algorithms: Analysis & Design
 
 ### What was the problem you were solving in the projects for this course?
 
